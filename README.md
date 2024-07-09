@@ -56,5 +56,5 @@ Java Development Kit, ООП, Фреймворк Spring.
 
 https://github.com/artemtsmyg/DZ.Spring.sem4.git
 
-https://github.com/artemtsmyg/DZ.Spring.sem9.git
+https://github.com/artemtsmyg/Microservice-architecture.git
 
