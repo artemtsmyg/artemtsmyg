@@ -16,7 +16,7 @@ email - artemtsmyg@yandex.ru
 
 VK - https://vk.com/id640652977
 
-Telegram - @ArtemTsmyg
+Telegram - https://t.me/ArtemTsmyg
 
 
 ПРОЙДЕННЫЕ КУРСЫ: 
