@@ -54,7 +54,7 @@ Java Development Kit, ООП, Фреймворк Spring.
 
 ССЫЛКИ НА МОИ ПРОЕКТЫ:
 
-https://github.com/artemtsmyg/DZ.Spring.sem4.git
+https://github.com/artemtsmyg/Web-application-Spring-MVC.git
 
 https://github.com/artemtsmyg/Microservice-architecture.git
 
