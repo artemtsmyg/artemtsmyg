@@ -12,6 +12,8 @@
 
 Номер телефона - 8(981)919 82-65
 
+email - artemtsmyg@yandex.ru
+
 VK - https://vk.com/id640652977
 
 Telegram - @ArtemTsmyg
