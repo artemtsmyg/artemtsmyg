@@ -8,13 +8,6 @@
 В дальнейшем хочу устроиться на работу в развивающуюся компанию Java разработчиком и 
 набрать много опыта и создавать полезные продукты для людей.
 
-ССЫЛКИ НА МОИ ПРОЕКТЫ:
-
-https://github.com/artemtsmyg/DZ.Spring.sem4.git
-
-https://github.com/artemtsmyg/DZ.Spring.sem9.git
-
-
 МОИ КОНТАКТЫ:
 
 Номер телефона - 8(981)919 82-65
@@ -58,4 +51,10 @@ Java Development Kit, ООП, Фреймворк Spring.
 6.MySql WorkBanch.
 
 7.Android Studio.
+
+ССЫЛКИ НА МОИ ПРОЕКТЫ:
+
+https://github.com/artemtsmyg/DZ.Spring.sem4.git
+
+https://github.com/artemtsmyg/DZ.Spring.sem9.git
 
