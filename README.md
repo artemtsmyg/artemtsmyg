@@ -26,7 +26,7 @@ Java Development Kit, ООП, Фреймворк Spring.
 
 Среды разработки которыми я научился пользоваться:
 
-1.Visual Studio Code.
+1.Visual Studio Code.    
 2.intellij idea.
 3.paycharm.
 4.Docker Desktop.
